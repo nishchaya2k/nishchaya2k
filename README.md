@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishchaya Narula</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning Web Development **Web Development**
 
 - 📫 How to reach me **n.nishchaya2000@gmail.com**
 
