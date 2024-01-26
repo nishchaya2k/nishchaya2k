@@ -20,7 +20,7 @@
 <p align="left"> 
 
 
-<a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="REACT" width="30" height="30"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.pinimg.com/564x/b4/de/20/b4de205cb6d4e7cad43c2971f780cfd9.jpg" alt="JS" width="30" height="30"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://png.pngtree.com/png-vector/20190406/ourmid/pngtree-html-file-document-icon-png-image_913761.jpg" alt="HTML" width="30" height="30"/> </a>
+<a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="REACT" width="30" height="30"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.pinimg.com/564x/b4/de/20/b4de205cb6d4e7cad43c2971f780cfd9.jpg" alt="JS" width="30" height="30"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/html-255-695369.png?f=webp&w=512" alt="HTML" width="30" height="30"/> </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/css-file-18-502467.png?f=webp&w=512" alt="HTML" width="30" height="30"/> </a>
 
