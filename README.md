@@ -3,7 +3,7 @@
 
 - 🌱 Currently immersed in developing a cutting-edge React application. 
 - 🌱 I specialize in crafting responsive UIs with expertise in React, Javascript, HTML, CSS, Tailwind CSS 
-- 👨‍💻 Check out my Portfolio for an in-depth look at my top 2 Projects
+- 👨‍💻 Check out my Pinned repository for an in-depth look at my top 2 Projects
 - 📫 How to reach me **n.nishchaya2000@gmail.com**
 - ⚡ Fun Fact: Crafting a personalized React dev environment for seamless coding experiences! 🚀
 
