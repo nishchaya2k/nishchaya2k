@@ -24,6 +24,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/css-file-18-502467.png?f=webp&w=512" alt="HTML" width="30" height="30"/> </a>
 
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css" alt="Tailwind CSS" width="30" height="30"/> </a>
 
 
 
