@@ -26,6 +26,8 @@
 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css" alt="Tailwind CSS" width="30" height="30"/> </a>
 
+<a href="https://api.jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-8-1175153.png?f=webp&w=512" width="30" height="30"/> </a>
+
 
 
   
