@@ -2,7 +2,7 @@
 <h3 align="center">Empowering Web Experiences with React Brilliance</h3>
 
 - 🌱 Currently immersed in developing a cutting-edge React application. 
-- 🌱 I specialize in crafting responsive UIs with expertise in React, Javascript, HTML, CSS, Tailwind CSS 
+- 🌱 I specialize in crafting responsive UIs with expertise in React, Javascript, HTML, CSS, Tailwind CSS, Redux, Git, Github 
 - 👨‍💻 Check out my Pinned repository for an in-depth look at my top 2 Projects
 - 📫 How to reach me **n.nishchaya2000@gmail.com**
 - ⚡ Fun Fact: Crafting a personalized React dev environment for seamless coding experiences! 🚀
