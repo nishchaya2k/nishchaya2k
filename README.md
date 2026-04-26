@@ -17,12 +17,11 @@ Focused on building scalable, high-performance web applications with clean archi
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
-**State Management:** Redux  
-**API & Data Handling:** REST APIs, GraphQL, React Query (basic)  
-**Performance Optimization:** Memoization, Debouncing, Efficient State Structuring  
-**Tools & Workflow:** Git, GitHub, Vite, Chrome DevTools  
-**Concepts:** System Design (HLD, LLD), Scalable UI Architecture, Cross-Browser Compatibility
+React.js, JavaScript (ES6+), Redux, Tailwind CSS  
+API Handling: REST, GraphQL, React Query  
+Performance: Memoization, Debouncing, Optimized Rendering  
+Tools: Git, GitHub, Vite, Chrome DevTools  
+Architecture: Scalable UI Design, System Design (HLD, LLD)
 
 ---
 
