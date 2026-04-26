@@ -17,15 +17,12 @@ Focused on building scalable, high-performance web applications with clean archi
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png" width="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-1-225993.png" width="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" width="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-css-131-722685.png" width="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-tailwind-css-3521498-2944916.png" width="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-283024.png" width="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png" width="30"/>
-</p>
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+**State Management:** Redux  
+**API & Data Handling:** REST APIs, GraphQL, React Query (basic)  
+**Performance Optimization:** Memoization, Debouncing, Efficient State Structuring  
+**Tools & Workflow:** Git, GitHub, Vite, Chrome DevTools  
+**Concepts:** System Design (HLD, LLD), Scalable UI Architecture, Cross-Browser Compatibility
 
 ---
 
