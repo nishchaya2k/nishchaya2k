@@ -1,24 +1,38 @@
 <h1 align="center">Hi 👋, I'm Nishchaya Narula</h1>
-<h3 align="center">Frontend Developer | React | Performance-Focused UI Engineer</h3>
+<h3 align="center">Frontend Developer | React | Performance-Driven UI Engineer</h3>
 
-- 🚀 Built and deployed production-level React applications with optimized API handling and scalable architecture  
-- ⚡ Focused on **performance optimization, clean state management, and reusable component design**  
-- 🧠 Strong in JavaScript fundamentals, debugging, and real-world problem solving  
-- 📂 Check pinned repositories for real-world projects (CRUD app, charts, API integrations)  
-- 📫 Reach me at: **n.nishchaya2000@gmail.com**
-
----
-
-<h3>🔗 Connect with me</h3>
-<p>
-<a href="https://www.linkedin.com/in/nishchaya-narula/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="30"/>
-</a>
+<p align="center">
+Focused on building scalable, high-performance web applications with clean architecture and optimized rendering.
 </p>
 
 ---
 
-<h3>⚙️ Tech Stack</h3>
-<p>
-React • JavaScript • Redux • Tailwind CSS • HTML • CSS • Git
+### 🚀 What I Do
+- Build **production-ready React applications**
+- Optimize performance (API calls, rendering, state updates)
+- Create reusable and scalable UI components
+- Strong debugging and JavaScript fundamentals
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png" width="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-1-225993.png" width="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" width="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-css-131-722685.png" width="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-tailwind-css-3521498-2944916.png" width="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-283024.png" width="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png" width="30"/>
 </p>
+
+---
+
+### 📌 Projects
+👉 Check pinned repositories for real-world projects (CRUD app, charts, API integrations)
+
+---
+
+### 📫 Contact
+- Email: **n.nishchaya2000@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/nishchaya-narula/
