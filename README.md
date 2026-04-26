@@ -8,10 +8,11 @@ Focused on building scalable, high-performance web applications with clean archi
 ---
 
 ### 🚀 What I Do
-- Build **production-ready React applications**
-- Optimize performance (API calls, rendering, state updates)
-- Create reusable and scalable UI components
-- Strong debugging and JavaScript fundamentals
+- Build **production-grade React applications** with focus on performance, maintainability, and scalability  
+- Optimize rendering by minimizing unnecessary re-renders using proper state structuring and memoization strategies  
+- Design component architecture that balances **reusability vs. over-abstraction** based on real product needs  
+- Handle complex state flows using Redux and modular patterns to keep code predictable and debuggable  
+- Improve API interaction efficiency (batching, debouncing, reducing redundant calls)  
 
 ---
 
