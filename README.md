@@ -27,11 +27,19 @@ Architecture: Scalable UI Design, System Design (HLD, LLD)
 
 ## 🚀 Featured Projects
 
+### 🎓 Career With Aman
+- Delivered a production-ready EdTech platform for a freelance client with a responsive and intuitive user experience.
+- Integrated payment gateway, WhatsApp communication workflow, and custom domain setup for seamless user onboarding.
+
+🌐 **[View Live](https://careerwithaman.com)**
+
+---
+
 ### 🏢 ERP Management System
 - Developed and optimized enterprise modules including **Accounts, Leads, Task Manager, Snags, File Manager, and Projects Dashboard**.
 - Built scalable UI architecture with reusable components, optimized rendering, and streamlined complex business workflows.
 
-🌐 **Live:** https://erp.idesign.market/
+🌐 **[View Live](https://www.idesign.market/)**
 
 ---
 
@@ -39,15 +47,7 @@ Architecture: Scalable UI Design, System Design (HLD, LLD)
 - Built a responsive e-commerce application with product search, filtering, sorting, price range selection, and centralized cart management.
 - Focused on clean architecture, efficient state management, and a seamless shopping experience across devices.
 
-🌐 **Live:** https://your-shopping-cart-demo.vercel.app/
-
----
-
-### 🎓 Career With Aman
-- Delivered a production-ready EdTech platform for a freelance client with a responsive and intuitive user experience.
-- Integrated payment gateway, WhatsApp communication workflow, and custom domain setup for seamless user onboarding.
-
-🌐 **Live:** https://careerwithaman.com/
+🌐 **[View Live](https://shopping-cart-six-psi.vercel.app/)**
 
 ---
 
